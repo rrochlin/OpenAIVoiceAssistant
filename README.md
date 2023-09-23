@@ -41,6 +41,13 @@ python -m venv VoiceAIEnv
 ```
 python main.py
 ```
+2. Press a key to start recording audio
+```
+Press ENTER to begin
+```
+3. Speak your question clearly then stop talking/making sounds.
+4. Wait for the response
+5. Repeat from step 2.
 
 ## Help
 
