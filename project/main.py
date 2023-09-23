@@ -23,7 +23,7 @@ async def main():
     question_audio_file = Path(home, "tmp", "question.mp3")
     response_audio_file = Path(home, "tmp", "response.mp3")
 
-    # Create a recognizer object and wake word variables
+    # Create a recognizer object
     recognizer = sr.Recognizer()
     recognizer.pause_threshold = 1
     while True:
