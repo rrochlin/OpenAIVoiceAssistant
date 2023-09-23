@@ -2,10 +2,6 @@
 
 This is an example of a simple voice AI voice assistant running from a python script. The script waits for the user to ask a question, then converts the question to text and sends this to ChatGPT 3.5. The response is then read back over system audio by gTTP.
 
-## Description
-
-An in-depth paragraph about your project and overview of use.
-
 ## Getting Started
 
 ### Dependencies
